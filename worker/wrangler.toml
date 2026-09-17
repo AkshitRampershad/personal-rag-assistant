@@ -1,0 +1,7 @@
+name = "personal-rag-assistant"
+main = "rag-worker.js"
+compatibility_date = "2024-11-01"
+
+# GROQ_API_KEY is set as an encrypted secret, never in this file:
+#   wrangler secret put GROQ_API_KEY
+# or via the Cloudflare dashboard (Worker → Settings → Variables and Secrets).

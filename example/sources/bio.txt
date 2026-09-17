@@ -1,0 +1,5 @@
+Jane Doe is a software engineer based in Austin, Texas, currently working as a Senior Backend Engineer at Northwind Analytics, where she has been since March 2023. Before that, she spent three years at Riverstone Logistics as a Data Engineer, building pipelines that processed shipment tracking data for a national freight network.
+
+Jane holds a BS in Computer Science from the University of Texas at Austin, graduated May 2019. She is certified in AWS Solutions Architect (Associate) and has completed Google's Professional Data Engineer coursework.
+
+Outside of work, Jane volunteers with a local coding bootcamp for career-changers, mentoring students through their first Python projects on weekends.

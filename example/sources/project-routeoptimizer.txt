@@ -1,0 +1,5 @@
+RouteOptimizer is a personal project Jane built to explore vehicle routing problems. It takes a list of delivery addresses and a fleet size, and produces near-optimal delivery routes using a genetic algorithm, benchmarked against a naive nearest-neighbor baseline.
+
+The project is written in Python, uses OR-Tools for the constraint-solving baseline comparison, and ships a small Flask dashboard for visualizing routes on a map. It's deployed as a demo on Render's free tier and the code is open-sourced under the MIT license.
+
+Jane wrote RouteOptimizer specifically to deepen her understanding of combinatorial optimization after encountering routing problems at Riverstone Logistics — the demo uses synthetic delivery data, not any real customer data from that job.
